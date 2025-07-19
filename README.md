@@ -1,11 +1,14 @@
-## Setting Hospot SuntikPaket
+# Setting Hospot SuntikPaket
 ***
-* Dari android ke android
+##  Dari android ke android
 
- 1 . Menggunakan dual HTTP Custom dan configurasi file yang sama <p>install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install juga di HP yang menghidupkan wifi,lalu kirim file configurasi yang sama ke masing-masing HP, dan jalankan [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di masing-masing HP (ini cara yang paling simple).</p>
+ ### 1 . Menggunakan dual HTTP Custom dengan configurasi file yang berbeda <p> 
+ install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install juga di HP yang menghidupkan wifi,lalu siapkan konfigurasi file masing-masing HP, dan jalankan [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di masing-masing HP (ini cara yang paling simple).</p>
   
-  2 . Menggunakan pengaturan proxy manual di setelan wifi<p> Untuk cara yang ini hanya tersedia di [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) (tanpa aplikasi yang lain), kalo untuk dark tunnel atau yang lain nya bisa saja tapi menggunakan bantuan aplikasi lain seperti [NetShare](https://play.google.com/store/apps/details?id=kha.prog.mikrotik).  </p>
-  -Settingan di hp yang menggunakan hospot
+  ### 2 . Menggunakan pengaturan proxy manual di setelan wifi<p> 
+  Untuk cara yang ini hanya tersedia di [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) (tanpa aplikasi yang lain), kalo untuk Dark Tunnel atau yang lain nya bisa saja tapi menggunakan bantuan aplikasi lain seperti [NetShare](https://play.google.com/store/apps/details?id=kha.prog.mikrotik), perlu di catat untuk cara yaang kedua ini kekurangan nya tidak bisa membuka whatsapp dan telegram di HP yang menghidupkan wifi.  </p>
+  ##
+  ####  -Settingan di hp yang menggunakan hospot
  * Pertama hidupkan data dan hospot dan tekan connect di HTTP Custom ,lalu tekan titik 3.
  
 <img src="./ss/a.jpg" width="275px"> 
@@ -21,8 +24,10 @@
  * Setelah itu kembali kehalaman utama klik di bagian LOG dan cari Set Proxy Client beserta Port nya,dan terkadang proxy ini bisa berubah-ubah apabila kita menghidupkan ulang hospot.
 
  <img src="./ss/f.jpg" width="275px">
+ 
+ ##
 
- -Settingan di hp yang menghidupkan wifi
+#### -Settingan di hp yang menghidupkan wifi
  * Pertama hidupkan wifi dan hubungkan ke hospot hp yang sudah di setting tadi.
  * Setelah terhubung, klik setelan wifi yang sudah terhubung (tiap HP mungkin beda posisi).
    
@@ -36,6 +41,14 @@
    
    <img src="./ss/j.jpg" width="275px">
 
+   Sampai di sini seharusnya wifi sudah bisa di gunakan.
+
+   ***
+   ##  Dari android ke windoWS
+   Tidak jauh berbeda dengan android hanya saja butuh bantuan software tambahan.
+   ### 1. Menggunakan software [NetMod](https://sourceforge.net/projects/netmodhttp/)
+    install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install [NetMod-x64](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x64(Latest).exe/download) atau [NetMod-x86](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x86(Latest).exe/download) di windows, tergantung windows yang anda gunakan, silahkan cek dengan cara :  `buka File Explorer - klik kanan This PC - klik Properties `
+   
 
 
 
