@@ -10,5 +10,12 @@
 
  Setelah itu klik ShareNet
  
+ <img src="./ss/b.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
+ 
+ Dan ceklis proxy socket sever
+ 
+<img src="./ss/c.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
+<img src="./ss/d.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
+
 
   
