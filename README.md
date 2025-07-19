@@ -14,19 +14,28 @@
  
  <img src="./ss/b.jpg" width="275px">
  
- * Dan ceklis proxy socket sever
+ * Dan ceklis Proxy Socket Sever
  
 <img src="./ss/c.jpg" width="275px"><img src="./ss/d.jpg" width="275px">
 
- * Setelah itu kembali kehalaman utama klik di bagian log dan cari set proxy client beserta port nya,dan terkadang proxy ini bisa berubah-ubah apabila kita menghidupkan ulang hospot.
+ * Setelah itu kembali kehalaman utama klik di bagian LOG dan cari Set Proxy Client beserta Port nya,dan terkadang proxy ini bisa berubah-ubah apabila kita menghidupkan ulang hospot.
 
  <img src="./ss/f.jpg" width="275px">
 
  -Settingan di hp yang menghidupkan wifi
  * Pertama hidupkan wifi dan hubungkan ke hospot hp yang sudah di setting tadi.
- * 
+ * Setelah terhubung, klik setelan wifi yang sudah terhubung (tiap HP mungkin beda posisi).
+   
+   <img src="./ss/g.jpg" width="275px">
 
- 
+ * Lalu klik di bagian Proxy ,dan pilih Manual.
+   
+   <img src="./ss/h.jpg" width="275px"><img src="./ss/i.jpg" width="275px">
+
+ * Dan terahir di bagian Hostname cantumkan Set Proxy Client dan Port nya yang di sediakan di HTTP Custom HP pertama, dan klik ceklis untuk menyimpan.
+   
+   <img src="./ss/j.jpg" width="275px">
+
 
 
 
