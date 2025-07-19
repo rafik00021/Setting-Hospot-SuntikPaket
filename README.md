@@ -17,5 +17,12 @@
 <img src="./ss/c.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
 <img src="./ss/d.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
 
+ Setelah itu kembali kehalaman utama klik di bagian log dan cari set proxy client beserta port nya,dan terkadang proxy ini bisa berubah-ubah apabila kita menghidupkan ulang hospot.
+
+ <img src="./ss/f.jpg" width="275px"><img src="./ss/6.jpg" width="275px"> 
+
+ 
+
+
 
   
