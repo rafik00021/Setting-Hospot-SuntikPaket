@@ -4,7 +4,7 @@
 
  ### 1 . Menggunakan dual HTTP Custom dengan configurasi file yang berbeda <p> 
  install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install juga di HP yang menghidupkan wifi,lalu siapkan konfigurasi file masing-masing HP, dan jalankan [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di masing-masing HP (ini cara yang paling simple).
-Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) 5k.</p>
+Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k.</p>
   
   ### 2 . Menggunakan pengaturan proxy manual di setelan wifi<p> 
   Untuk cara yang ini hanya tersedia di [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) (tanpa aplikasi yang lain), kalo untuk Dark Tunnel atau yang lain nya bisa saja tapi menggunakan bantuan aplikasi lain seperti [NetShare](https://play.google.com/store/apps/details?id=kha.prog.mikrotik), perlu di catat untuk cara yaang kedua ini kekurangan nya tidak bisa membuka whatsapp dan telegram di HP yang menghidupkan wifi,tapi kelebihan yang kedua ini cukup satu konfigurasi file.  </p>
