@@ -7,7 +7,7 @@
 Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k.</p>
   
   ### 2 . Menggunakan pengaturan proxy manual di setelan wifi<p> 
-  Untuk cara yang ini hanya tersedia di [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) (tanpa aplikasi yang lain), kalo untuk Dark Tunnel atau yang lain nya bisa saja tapi menggunakan bantuan aplikasi lain seperti [NetShare](https://play.google.com/store/apps/details?id=kha.prog.mikrotik), perlu di catat untuk cara yaang kedua ini kekurangan nya tidak bisa membuka whatsapp dan telegram di HP yang menghidupkan wifi,tapi kelebihan yang kedua ini cukup satu konfigurasi file.  </p>
+  Untuk cara yang ini hanya tersedia di [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) (tanpa aplikasi yang lain), kalo untuk Dark Tunnel atau yang lain nya bisa saja tapi menggunakan bantuan aplikasi lain seperti [NetShare](https://play.google.com/store/apps/details?id=kha.prog.mikrotik), perlu di catat untuk cara yang kedua ini kekurangan nya tidak bisa membuka whatsapp dan telegram di HP yang menghidupkan wifi,tapi kelebihan yang kedua ini cukup satu konfigurasi file.  </p>
   ##
   ####  -Settingan di hp yang menggunakan hospot
  * Pertama hidupkan data dan hospot dan tekan connect di HTTP Custom ,lalu tekan titik 3.
