@@ -53,6 +53,10 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
    
    <img src="./tempsnip.png" width="500px">
 
+Setelah di download double klik software [NetMod](https://sourceforge.net/projects/netmodhttp/) Install dan jalankan, lalu siapkan file configurasi untuk [NetMod](https://sourceforge.net/projects/netmodhttp/).
+Order file konfigurasi [NetMod](https://sourceforge.net/projects/netmodhttp/) di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k.
+
+ <img src="./Capture.PNG" width="500px">
 
 
   
