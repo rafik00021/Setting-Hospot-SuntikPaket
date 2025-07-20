@@ -45,11 +45,11 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
    Sampai di sini seharusnya wifi sudah bisa di gunakan.
 
    ***
-   ##  Dari android ke windoWS
+   ##  Dari android ke Windows
    Tidak jauh berbeda dengan android hanya saja butuh bantuan software tambahan.
    ### 1. Menggunakan software [NetMod](https://sourceforge.net/projects/netmodhttp/)
     install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install [NetMod-x64](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x64(Latest).exe/download) atau [NetMod-x86](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x86(Latest).exe/download) di windows, tergantung windows yang anda gunakan, silahkan cek dengan cara :
-    `buka File Explorer - klik kanan This PC - klik Properties `
+    `buka File Explorer - klik kanan This PC - klik Properties ` dan cari System Type.
    
    <img src="./tempsnip.png" width="500px">
 
