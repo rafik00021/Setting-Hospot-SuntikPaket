@@ -59,5 +59,5 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
     <img src="./Capture.PNG" width="500px">
 
     Apabila kurang jelas silahkan tonton vidio youtube berikut :
-    <div> cara memasukan file NetMod dan menjalankan nya [Open Youtube](https://www.youtube.com/watch?v=Csws3JEkTWE)</div>
+   cara memasukan file NetMod dan menjalankan nya [Open Youtube](https://www.youtube.com/watch?v=Csws3JEkTWE).
   
