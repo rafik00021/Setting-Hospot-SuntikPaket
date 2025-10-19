@@ -47,7 +47,7 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
    ***
    ##  Dari android ke Windows
    Tidak jauh berbeda dengan android hanya saja butuh bantuan software tambahan.
-   ### 1. Menggunakan software [NetMod](https://sourceforge.net/projects/netmodhttp/)
+   ### Cara pertama Menggunakan software [NetMod](https://sourceforge.net/projects/netmodhttp/)
     install [HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom) di HP yang menghidupkan hospot dan install [NetMod-x64](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x64(Latest).exe/download) atau [NetMod-x86](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x86(Latest).exe/download) di windows, tergantung windows yang anda gunakan, silahkan cek dengan cara :
     `buka File Explorer - klik kanan This PC - klik Properties ` dan cari System Type.
    
@@ -60,4 +60,37 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
 
     Apabila kurang jelas silahkan tonton vidio youtube berikut :
    cara memasukan file NetMod dan menjalankan nya [Open Youtube](https://www.youtube.com/watch?v=Csws3JEkTWE).
-  
+
+ ### Cara kedua sama seperti di android yaitu menggunakan proxy dan port
+ 
+ #### -Settingan di hp yang menghidupkan wifi
+   * Pertama hidupkan data dan hospot dan tekan connect di HTTP Custom ,lalu tekan titik 3.
+ 
+   <img src="./ss/a.jpg" width="275px"> 
+
+   * Setelah itu klik ShareNet
+ 
+   <img src="./ss/b.jpg" width="275px">
+ 
+   * Dan ceklis Proxy Socket Sever
+ 
+   <img src="./ss/c.jpg" width="275px"><img src="./ss/d.jpg" width="275px">
+
+  * Setelah itu kembali kehalaman utama klik di bagian LOG dan cari Set Proxy Client beserta Port nya,dan terkadang proxy ini bisa berubah-ubah apabila kita menghidupkan ulang hospot.
+
+   <img src="./ss/f.jpg" width="275px">
+ 
+ ##
+
+#### -Settingan di windos
+
+
+
+
+
+
+
+
+
+
+
