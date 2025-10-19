@@ -83,7 +83,7 @@ Order file konfigurasi Hospot di [SuntikPaket](https://t.me/SuntikPaket) cuma 5k
  ##
 
 #### -Settingan di windos
-
+Rekomendasi tutorial [Open Youtube](https://youtu.be/TNEU7bGEJU0?si=_E9PknW0Euxsh7kS) 
 
 
 
